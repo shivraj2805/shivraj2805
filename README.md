@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shivraj!<br>💻 Web Developer & DSA Enthusiast<br>🛠️ Skills:<br>         &nbsp; -Building web apps with React<br>          -Server-side development using Node.js<br>          -Database management with MongoDB<br>          -Solving DSA problems in Java<br>❤️ Passionate about coding!
+👋 Hi, I'm Shivraj!<br>💻 Web Developer & DSA Enthusiast<br>🛠️ Skills:<br>         &nbsp; &nbsp; -Building web apps with React<br>          &nbsp; &nbsp; -Server-side development using Node.js<br>          &nbsp; &nbsp; -Database management with MongoDB<br>          &nbsp; &nbsp; -Solving DSA problems in Java<br>❤️ Passionate about coding!
 
 
 ## 🌐 Socials:
@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shivraj2805&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
