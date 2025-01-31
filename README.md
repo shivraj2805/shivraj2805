@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shivraj!<br>💻 Web Developer & DSA Enthusiast<br>🛠️ Skills:<br>          -Building web apps with React<br>          -Server-side development using Node.js<br>          -Database management with MongoDB<br>          -Solving DSA problems in Java<br>❤️ Passionate about coding!
+👋 Hi, I'm Shivraj!<br>💻 Web Developer & DSA Enthusiast<br>🛠️ Skills:<br>         &nbsp; -Building web apps with React<br>          -Server-side development using Node.js<br>          -Database management with MongoDB<br>          -Solving DSA problems in Java<br>❤️ Passionate about coding!
 
 
 ## 🌐 Socials:
