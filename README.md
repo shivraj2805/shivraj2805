@@ -1,7 +1,6 @@
 # 💫 About Me
-<div align="center">
-  <img src="https://media.giphy.com/media/your-gif-link.gif" alt="Shivraj Darekar" width="200" height="200" style="border-radius: 50%;"/>
-</div>
+
+
 
 👋 **Hi, I'm Shivraj!**  
 💻 **Web Developer & DSA Enthusiast**  
