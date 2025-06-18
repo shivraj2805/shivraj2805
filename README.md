@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shivraj Darekar</h1>
+<h1 align="center"> Hi 👋, I'm Shivraj Darekar</h1>
 <h3 align="center">Web Developer • DSA Enthusiast • Cloud & DevOps Explorer</h3>
 
 <p align="center">
