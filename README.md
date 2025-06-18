@@ -9,8 +9,8 @@
 
 ## 💼 About Me
 
-- 🚀 Full‑stack Web Developer (React, Node.js, MongoDB, MySQL)  
-- 💡 DSA Enthusiast — solving problems using Java & Python  
+- 🚀 Full‑stack Web Developer (React, Node.js, MongoDB, MySQL,Express.js)  
+- 💡 DSA Enthusiast — solving problems using Java 
 - ☁️ Learning Cloud & DevOps: Docker, AWS, GitHub Actions, CI/CD  
 - 🎯 Strong foundation in Data Structures, Algorithms, and OOP  
 - 🌐 Portfolio: [shiv-software-developer-portfolio.vercel.app](https://shiv-software-developer-portfolio.vercel.app)  
